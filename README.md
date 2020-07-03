@@ -13,7 +13,7 @@ For more options: `anisub --ignore-gooey -h`
 ## Features:
 ### Character name order
 Change character names order (western <-> eastern).  
-i.e. Naruto Uzumako <-> Uzumaki Naruto.
+i.e. Naruto Uzumaki <-> Uzumaki Naruto.
   
 How it's done:
 * Automatically detects the anime name (you can also supply it yourself if it fails to detect)
